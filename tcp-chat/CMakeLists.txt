@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(MyProject C)
+project(tcp-chat C)
 
 set(CMAKE_C_STANDARD 11)
 
